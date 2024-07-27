@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">I'm a graphic designer and web developer who recently graduated from Jönköping University with a degree in New Media Design.</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
