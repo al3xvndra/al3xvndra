@@ -33,8 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,next,html,css,figma,tailwind" />
-  <img src="https://skillicons.dev/icons?i=wordpress,nodejs,express,sqlite,p5js" /><br>
+  <img src="https://skillicons.dev/icons?i=,html,css,javascript,figma,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,p5js" /><br>
 
 </div>
 
